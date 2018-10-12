@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Rao IIT Academy
+    i18n: rao iit
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I've done my 11th and 12th here and tried for IIT's so took training here but didnt work out well
+    i18n: 11th and 12th
   date:
-    detail: Apr. 2016
+    detail: 2013-2015
     i18n: company_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Student
+    i18n: J1 Batch
+  icon: fa-book
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: KLE University Hubli
+    i18n: KLETU
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I have done my BE Undergraduate in Computer Science dicipline
+    i18n: BE CS
   date:
-    detail: Jun. 2015
+    detail: June 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Student
+    i18n: student
+  icon: fa-graduation-cap
+
+- name:
+    detail: STEK India
+    i18n: STEK
+  desc:
+    detail: I am doing internship and working on technologies like flutter and mobile app development
+    i18n: Intern
+  date:
+    detail: August 2018
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: Intern
   icon: fa-plus-square
