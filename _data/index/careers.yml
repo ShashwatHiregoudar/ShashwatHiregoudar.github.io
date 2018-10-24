@@ -21,7 +21,7 @@
     detail: I have done my BE Undergraduate in Computer Science dicipline
     i18n: BE CS
   date:
-    detail: June 2015
+    detail: 2015 - 2019
     i18n: company_b_date
   job:
     detail: Student
@@ -35,7 +35,7 @@
     detail: I am doing internship and working on technologies like flutter and mobile app development
     i18n: Intern
   date:
-    detail: August 2018
+    detail: August 2018 till now
     i18n: company_b_date
   job:
     detail: Intern

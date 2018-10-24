@@ -20,22 +20,22 @@ author:  # change following line to your infomation.
   facebook_username: shashwathiregoudar  # Leave blank if you don't have now
   twitter_username: ShashwatHire  # Leave blank if you don't have now
   email: shashwatiregoudar@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+    - name: fa-windows
+    - name: fa-apple
+  desc: I am currently an Undergrad in KLE Unniversity Hubli.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: shashwathiregoudar
 
 txtpen:  # if you wanna highlight feature, go to https://txtpen.com/ to get your configuration; if not, comment following line.
-  name: jalpc
+  name: shashwathiregoudar
 
 # analytics
 ## google analytics
