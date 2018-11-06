@@ -1,8 +1,54 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: St.Annes School haveri
+    i18n: KLE Haveri
+    link: http://www.icbse.com/schools/st-annes-high-sch-haveri/29110612703
+  desc:
+    detail: I've done my 3rd to 8th here and made a lot of friends in hometown
+    i18n: 11th and 12th
+  date:
+    detail: 2006-2010
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: J1 Batch
+  icon: fa-book
+
+- name:
+    detail: KLE School Haveri
+    i18n: KLE Haveri
+    link: http://www.klescbsehvr.org/
+  desc:
+    detail: I've done my 3rd to 8th here and made a lot of friends in hometown
+    i18n: 11th and 12th
+  date:
+    detail: 2006-2010
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: J1 Batch
+  icon: fa-book
+
+- name:
+    detail: Rashtrotthana Vidya Kendra
+    i18n: RVK Dharwad
+    link: http://www.rvkd.org/
+  desc:
+    detail: I've done my 8th to 10th here got to know a lot about our Indian culture and RSS(Rashtrya Swayam-Sevak Sangha)
+    i18n: 8th to 10th
+  date:
+    detail: 2010-2013
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: Electron Gang
+  icon: fa-book
+
+- name:
     detail: Rao IIT Academy
     i18n: rao iit
+    link: https://www.raoiit.com/
   desc:
     detail: I've done my 11th and 12th here and tried for IIT's so took training here but didnt work out well
     i18n: 11th and 12th
@@ -17,6 +63,7 @@
 - name:
     detail: KLE University Hubli
     i18n: KLETU
+    link: https://www.kletech.ac.in/
   desc:
     detail: I have done my BE Undergraduate in Computer Science dicipline
     i18n: BE CS
@@ -31,6 +78,7 @@
 - name:
     detail: STEK India
     i18n: STEK
+    link: https://stek.co.in/
   desc:
     detail: I am doing internship and working on technologies like flutter and mobile app development
     i18n: Intern
