@@ -15,7 +15,7 @@
                         <i class="fa {{ career.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <a><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></a>
+                        <a href="{{career.name.link}}"span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></a>
                         <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
                         <span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
                         <br/> <small><span data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail }}</span></small> </span>
