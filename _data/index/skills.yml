@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, C, C++, Java, Machine Learing, Python, C#
-percentage: 60, 75, 85, 70, 90, 90, 50
+aspects: Git, C, C++, Java, Machine Learing, Python, C#, Solidity, SQL, NodeJS, Flutter, PHP, HTML, Unity
+percentage: 85, 75, 85, 70, 90, 90, 50, 70, 80, 60, 80, 40, 70, 50

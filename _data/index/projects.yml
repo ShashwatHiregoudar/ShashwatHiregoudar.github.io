@@ -1,22 +1,30 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Indian Digital Herritage
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
+  gh_user: ShashwatHiregoudar
+  repo: IDH
+  img: /static/assets/img/projects/Octocat.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
+- name: Password cracking software
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+  gh_user: ShashwatHiregoudar
+  repo: PasswordCrackingSoftware
+  img: /static/assets/img/projects/Octocat.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
+#- name: YourBillz
+#  i18n: google
+#  gh_user: ShashwatHiregoudar
+#  repo: yourbillz
+#  img: /static/assets/img/projects/Octocat.png
+#  desc: This is another project.
+
+- name: SIC SIC/XE 
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
+  gh_user: ShashwatHiregoudar
+  repo: SS-Lab
+  img: /static/assets/img/projects/Octocat.png
   desc: This is another project.
