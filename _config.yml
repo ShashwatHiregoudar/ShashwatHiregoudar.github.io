@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-windows
     - name: fa-apple
-  desc: I am currently an Undergrad in KLE Unniversity Hubli.  # Describe yourself.
+  desc: I am a final year undergrad in KLE Unniversity Hubli. \nDeeply interested in Quantum computing and have worked a lot on machine learning and computer vision # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

@@ -5,10 +5,10 @@
     i18n: KLE Haveri
     link: http://www.icbse.com/schools/st-annes-high-sch-haveri/29110612703
   desc:
-    detail: I've done my 3rd to 8th here and made a lot of friends in hometown
+    detail: I've learned here from kindergarten to 3rd grade here and made a lot of friends in hometown
     i18n: 11th and 12th
   date:
-    detail: 2006-2010
+    detail: 2000-2006
     i18n: company_a_date
   job:
     detail: Student
@@ -65,7 +65,7 @@
     i18n: KLETU
     link: https://www.kletech.ac.in/
   desc:
-    detail: I have done my BE Undergraduate in Computer Science dicipline
+    detail: I am doing my BE Undergraduate in Computer Science dicipline
     i18n: BE CS
   date:
     detail: 2015 - 2019

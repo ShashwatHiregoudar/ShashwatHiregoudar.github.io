@@ -4,16 +4,29 @@ title:  "Anaconda Install"
 date:   2018-12-21
 desc: "A Brief guide to show how to install Anaconda by Shashwat Hiregoudar"
 keywords: "anaconda,python,python3,pydev,Machine Learning,Opencv,OpenCV"
-categories: [Linux,Python]
+categories: [Tech]
 tags: [DeepLearning,Python,Machine Learning,Opencv]
 icon: icon-html
-author: "HEHEHEHE"
+author: "Shashwat Hiregoudar"
 ---
 
 # Anaconda
-### What it is
+
+## What it is
 It is a custom python interpreter.
-### Is it necessary for me to install??
+
+## Is it necessary for me to install??
 A default version of python is already pre-installed in mac and linux os.
 
-But its better to use anaconda because it contains all the 
+But its better to use anaconda because it contains all the required files and libraries pre installed
+
+## How to install 
+
+Simple Go to anaconda website [here](https://www.anaconda.com/download/)
+
+### Linux / Mac 
+    $bash Anaconda*.sh
+
+### Windows
+    Anaconda*.exe
+
