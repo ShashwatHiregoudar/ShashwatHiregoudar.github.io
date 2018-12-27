@@ -6,7 +6,7 @@ desc: "A Brief guide to show how to install Anaconda by Shashwat Hiregoudar"
 keywords: "anaconda,python,python3,pydev,Machine Learning,Opencv,OpenCV"
 categories: [Tech]
 tags: [DeepLearning,Python,Machine Learning,Opencv]
-icon: icon-html
+icon: icon-python
 author: "Shashwat Hiregoudar"
 ---
 
@@ -22,11 +22,11 @@ But its better to use anaconda because it contains all the required files and li
 
 ## How to install 
 
-Simple Go to anaconda website [here](https://www.anaconda.com/download/)
+Simple Go to official anaconda website [here](https://www.anaconda.com/download/)
 
 ### Linux / Mac 
     $bash Anaconda*.sh
 
 ### Windows
-    Anaconda*.exe
+    >Anaconda*.exe
 
