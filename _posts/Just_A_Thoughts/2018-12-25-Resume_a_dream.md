@@ -6,6 +6,7 @@ desc: "A thought on whether dreams can be resumed?"
 keywords: "life,dream,indian,weird,food,cost"
 categories: [Justathought]
 tags: [life,dream,indian,weird,food,cost]
+icon-family: fa
 icon: fa-bed
 author: "Shashwat Hiregoudar"
 ---

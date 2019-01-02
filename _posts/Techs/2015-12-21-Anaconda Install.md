@@ -6,6 +6,7 @@ desc: "A Brief guide to show how to install Anaconda by Shashwat Hiregoudar"
 keywords: "anaconda,python,python3,pydev,Machine Learning,Opencv,OpenCV"
 categories: [Tech]
 tags: [DeepLearning,Python,Machine Learning,Opencv]
+icon-family: fa
 icon: icon-python
 author: "Shashwat Hiregoudar"
 ---

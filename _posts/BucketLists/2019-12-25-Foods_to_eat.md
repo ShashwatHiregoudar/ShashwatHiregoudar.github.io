@@ -6,6 +6,7 @@ desc: "A Brief guide to show how to install Anaconda by Shashwat Hiregoudar"
 keywords: "life,bucketlist,indian,food,cost"
 categories: [Bucketlist]
 tags: [Life,Indian,Food,Fun]
+icon-family: fa
 icon: icon-fire-alt
 author: "Shashwat Hiregoudar"
 ---
