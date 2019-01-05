@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: https://github.com/ShashwatHiregoudar/LATEX_CV/releases/download/1.0.0/resume_cv.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: fa-apple
     - name: fa-linux
   skill_icon2:
     - name: fa-windows
-    - name: fa-apple
+    - name: icon-apache
   desc: I am a final year undergrad in KLE Unniversity Hubli. \nDeeply interested in Quantum computing and have worked a lot on machine learning and computer vision # Describe yourself.
 
 # comment
