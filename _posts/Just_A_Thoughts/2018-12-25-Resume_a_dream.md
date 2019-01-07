@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resume a dream"
-date:   2019-01-02
+date:   2018-12-21
 desc: "A thought on whether dreams can be resumed?"
 keywords: "life,dream,indian,weird,food,cost"
 categories: [Justathought]
