@@ -6,14 +6,16 @@
   gh_user: ShashwatHiregoudar
   repo: IDH
   img: /static/assets/img/projects/Octocat.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Classifies the given images into its substituent class(MultiClass) Terms - Computer vision, Machine Learning, Neural networks, object recognition. Funded by government of India (Archiological Department).Successfully deployed in IIT Delhi cloud(Baadal)
+
 
 - name: Password cracking software
   i18n: cpython
   gh_user: ShashwatHiregoudar
   repo: PasswordCrackingSoftware
   img: /static/assets/img/projects/Octocat.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Gained expertise in hacking & security areas, and tried to implement actual hacking algorithms Terms - SHA256, Hacking, Java GUI Brute Force, Rainbow hash, Dictionary Attack
+
 
 #- name: YourBillz
 #  i18n: google

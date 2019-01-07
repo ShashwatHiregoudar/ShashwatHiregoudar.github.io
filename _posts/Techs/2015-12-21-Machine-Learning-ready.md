@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anaconda Install"
+title:  "Machine Learning ready"
 date:   2018-12-21
 desc: "A Brief guide to show how to install Anaconda by Shashwat Hiregoudar"
 keywords: "anaconda,python,python3,pydev,Machine Learning,Opencv,OpenCV"
@@ -10,7 +10,9 @@ icon-family: fa
 icon: icon-python
 author: "Shashwat Hiregoudar"
 ---
+Welcome to the world of machine learning and computer vision
 
+The basic programming language for basic machine learning is python so first let us install it
 # Anaconda
 
 ## What it is
@@ -24,10 +26,3 @@ But its better to use anaconda because it contains all the required files and li
 ## How to install 
 
 Simple Go to official anaconda website [here](https://www.anaconda.com/download/)
-
-### Linux / Mac 
-    $bash Anaconda*.sh
-
-### Windows
-    >Anaconda*.exe
-

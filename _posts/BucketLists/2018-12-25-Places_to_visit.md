@@ -7,7 +7,7 @@ keywords: "life,bucketlist,indian,food,cost"
 categories: [Bucketlist]
 tags: [Life,Indian,Food,Fun]
 icon-family: fa
-icon: fa-plane
+icon: fa-plane-departure
 author: "Shashwat Hiregoudar"
 ---
 
