@@ -80,10 +80,25 @@
     i18n: STEK
     link: https://stek.co.in/
   desc:
-    detail: I am doing internship and working on technologies like flutter and mobile app development
+    detail: Did my internship and worked on technologies like flutter and mobile app development
     i18n: Intern
   date:
-    detail: August 2018 till now
+    detail: July 2018 till November 2018
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: Intern
+  icon: fa-plus-square
+
+- name:
+    detail: Cypress Semiconductors India
+    i18n: Cypress
+    link: https://cypress.com/
+  desc:
+    detail: I am doing internship here and Learnning about embedded programming. Especially for Cypress microcontrollers.
+    i18n: Intern
+  date:
+    detail: Jan 2019 till Now
     i18n: company_b_date
   job:
     detail: Intern
