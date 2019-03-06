@@ -28,7 +28,7 @@
   job:
     detail: Student
     i18n: J1 Batch
-  icon: fa-book
+  logo: /static/assets/img/career_logos/KLE.png
 
 - name:
     detail: Rashtrotthana Vidya Kendra
@@ -43,7 +43,7 @@
   job:
     detail: Student
     i18n: Electron Gang
-  icon: fa-book
+  logo: /static/assets/img/career_logos/RVK.png
 
 - name:
     detail: Rao IIT Academy
@@ -58,7 +58,7 @@
   job:
     detail: Student
     i18n: J1 Batch
-  icon: fa-book
+  logo: /static/assets/img/career_logos/RAOIIT.png
 
 - name:
     detail: KLE University Hubli
@@ -73,7 +73,7 @@
   job:
     detail: Student
     i18n: student
-  icon: fa-graduation-cap
+  logo: /static/assets/img/career_logos/KLETU.png
 
 - name:
     detail: STEK India
@@ -88,7 +88,7 @@
   job:
     detail: Intern
     i18n: Intern
-  icon: fa-plus-square
+  logo: /static/assets/img/career_logos/STEK.png
 
 - name:
     detail: Cypress Semiconductors India
@@ -103,4 +103,4 @@
   job:
     detail: Intern
     i18n: Intern
-  icon: fa-plus-square
+  logo: /static/assets/img/career_logos/CYPRESS.png
