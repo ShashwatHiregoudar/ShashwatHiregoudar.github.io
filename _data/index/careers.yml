@@ -76,6 +76,21 @@
   logo: /static/assets/img/career_logos/KLETU.png
 
 - name:
+    detail: Indian Institute of Technology Delhi
+    i18n: KLETU
+    link: https://www.iitd.ac.in/
+  desc:
+    detail: Worked as a Research Intern for a month on 3d reconstruction of objects from stereo images.
+    i18n: BE CS
+  date:
+    detail: June 2018 till July 2018
+    i18n: company_b_date
+  job:
+    detail: Research Intern
+    i18n: student
+  logo: /static/assets/img/career_logos/KLETU.png
+
+- name:
     detail: STEK India
     i18n: STEK
     link: https://stek.co.in/
