@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning ready"
 date:   2019-01-05
-desc: "A Brief guide to show how to install Anaconda by Shashwat Hiregoudar"
+desc: "A Brief guide to show how to install Anaconda and all the other libraries to be machine learning ready"
 keywords: "anaconda,python,python3,pydev,Machine Learning,Opencv,OpenCV"
 categories: [Tech]
 tags: [DeepLearning,Python,Machine Learning,Opencv]
