@@ -41,5 +41,5 @@
 }
 .round:hover{
     transition: all 2.5s ease-in;
-    transform: scale(1.1) perspective(1px);
+    transform: scale(1.06) perspective(1px);
 }
