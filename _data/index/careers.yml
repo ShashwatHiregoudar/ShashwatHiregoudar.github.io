@@ -110,12 +110,12 @@
     i18n: Cypress
     link: https://cypress.com/
   desc:
-    detail: I am doing internship here and Learnning about embedded programming. Especially for Cypress microcontrollers.
+    detail: I did internship here and Learnt about embedded programming. Especially for Cypress microcontrollers. Now am into the software verification team of CoEx ( WLan and Bluetooth )
     i18n: Intern
   date:
     detail: Jan 2019 till Now
     i18n: company_b_date
   job:
-    detail: Intern
+    detail: Intern & Employee [ System Validation Engineer ]
     i18n: Intern
   logo: /static/assets/img/career_logos/CYPRESS.png
