@@ -1,94 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: St.Annes School haveri
-    i18n: KLE Haveri
-    link: http://www.icbse.com/schools/st-annes-high-sch-haveri/29110612703
+    detail: Cypress Semiconductors India
+    i18n: Cypress
+    link: https://cypress.com/
   desc:
-    detail: I've learned here from kindergarten to 3rd grade here and made a lot of friends in hometown
-    i18n: 11th and 12th
+    detail: I did internship here and Learnt about embedded programming. Especially for Cypress microcontrollers. Now am into the software verification team of CoEx ( WLan and Bluetooth )
+    i18n: Intern
   date:
-    detail: 2000-2006
-    i18n: company_a_date
-  job:
-    detail: Student
-    i18n: J1 Batch
-  icon: fa-book
-
-- name:
-    detail: KLE School Haveri
-    i18n: KLE Haveri
-    link: http://www.klescbsehvr.org/
-  desc:
-    detail: I've done my 3rd to 8th here and made a lot of friends in hometown
-    i18n: 11th and 12th
-  date:
-    detail: 2006-2010
-    i18n: company_a_date
-  job:
-    detail: Student
-    i18n: J1 Batch
-  logo: /static/assets/img/career_logos/KLE.png
-
-- name:
-    detail: Rashtrotthana Vidya Kendra
-    i18n: RVK Dharwad
-    link: http://www.rvkd.org/
-  desc:
-    detail: I've done my 8th to 10th here got to know a lot about our Indian culture and RSS(Rashtrya Swayam-Sevak Sangha)
-    i18n: 8th to 10th
-  date:
-    detail: 2010-2013
-    i18n: company_a_date
-  job:
-    detail: Student
-    i18n: Electron Gang
-  logo: /static/assets/img/career_logos/RVK.png
-
-- name:
-    detail: Rao IIT Academy
-    i18n: rao iit
-    link: https://www.raoiit.com/
-  desc:
-    detail: I've done my 11th and 12th here and tried for IIT's so took training here but didnt work out well
-    i18n: 11th and 12th
-  date:
-    detail: 2013-2015
-    i18n: company_a_date
-  job:
-    detail: Student
-    i18n: J1 Batch
-  logo: /static/assets/img/career_logos/RAOIIT.png
-
-- name:
-    detail: KLE University Hubli
-    i18n: KLETU
-    link: https://www.kletech.ac.in/
-  desc:
-    detail: I am doing my BE Undergraduate in Computer Science dicipline
-    i18n: BE CS
-  date:
-    detail: 2015 - 2019
+    detail: Jan 2019 till Now
     i18n: company_b_date
   job:
-    detail: Student
-    i18n: student
-  logo: /static/assets/img/career_logos/KLETU.png
-
-- name:
-    detail: Indian Institute of Technology Delhi
-    i18n: KLETU
-    link: https://www.iitd.ac.in/
-  desc:
-    detail: Worked as a Research Intern for a month on 3d reconstruction of objects from stereo images.
-    i18n: BE CS
-  date:
-    detail: June 2018 till July 2018
-    i18n: company_b_date
-  job:
-    detail: Research Intern
-    i18n: student
-  logo: /static/assets/img/career_logos/IITD.png
+    detail: Intern & Employee [ System Validation Engineer ]
+    i18n: Intern
+  logo: /static/assets/img/career_logos/CYPRESS.png
 
 - name:
     detail: STEK India
@@ -106,16 +31,97 @@
   logo: /static/assets/img/career_logos/STEK.png
 
 - name:
-    detail: Cypress Semiconductors India
-    i18n: Cypress
-    link: https://cypress.com/
+    detail: Indian Institute of Technology Delhi
+    i18n: KLETU
+    link: https://www.iitd.ac.in/
   desc:
-    detail: I did internship here and Learnt about embedded programming. Especially for Cypress microcontrollers. Now am into the software verification team of CoEx ( WLan and Bluetooth )
-    i18n: Intern
+    detail: Worked as a Research Intern for a month on 3d reconstruction of objects from stereo images.
+    i18n: BE CS
   date:
-    detail: Jan 2019 till Now
+    detail: June 2018 till July 2018
     i18n: company_b_date
   job:
-    detail: Intern & Employee [ System Validation Engineer ]
-    i18n: Intern
-  logo: /static/assets/img/career_logos/CYPRESS.png
+    detail: Research Intern
+    i18n: student
+  logo: /static/assets/img/career_logos/IITD.png
+
+- name:
+    detail: KLE University Hubli
+    i18n: KLETU
+    link: https://www.kletech.ac.in/
+  desc:
+    detail: I am doing my BE Undergraduate in Computer Science dicipline
+    i18n: BE CS
+  date:
+    detail: 2015 - 2019
+    i18n: company_b_date
+  job:
+    detail: Student
+    i18n: student
+  logo: /static/assets/img/career_logos/KLETU.png
+
+- name:
+    detail: Rao IIT Academy
+    i18n: rao iit
+    link: https://www.raoiit.com/
+  desc:
+    detail: I've done my 11th and 12th here and tried for IIT's so took training here but didnt work out well
+    i18n: 11th and 12th
+  date:
+    detail: 2013-2015
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: J1 Batch
+  logo: /static/assets/img/career_logos/RAOIIT.png
+
+- name:
+    detail: Rashtrotthana Vidya Kendra
+    i18n: RVK Dharwad
+    link: http://www.rvkd.org/
+  desc:
+    detail: I've done my 8th to 10th here got to know a lot about our Indian culture and RSS(Rashtrya Swayam-Sevak Sangha)
+    i18n: 8th to 10th
+  date:
+    detail: 2010-2013
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: Electron Gang
+  logo: /static/assets/img/career_logos/RVK.png
+
+- name:
+    detail: KLE School Haveri
+    i18n: KLE Haveri
+    link: http://www.klescbsehvr.org/
+  desc:
+    detail: I've done my 3rd to 8th here and made a lot of friends in hometown
+    i18n: 11th and 12th
+  date:
+    detail: 2006-2010
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: J1 Batch
+  logo: /static/assets/img/career_logos/KLE.png
+
+- name:
+    detail: St.Annes School haveri
+    i18n: KLE Haveri
+    link: http://www.icbse.com/schools/st-annes-high-sch-haveri/29110612703
+  desc:
+    detail: I've learned here from kindergarten to 3rd grade here and made a lot of friends in hometown
+    i18n: 11th and 12th
+  date:
+    detail: 2000-2006
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: J1 Batch
+  icon: fa-book
+
+
+
+
+
+
