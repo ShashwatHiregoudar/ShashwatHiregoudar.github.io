@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: InfineonTechnologies India
+    i18n: Infineon
+    link: https://www.infineon.com/
+  desc:
+    detail: L2 apps Engineer( making technical documents and demo's, basicall making the customers understand how to use our WiFi Products)
+    i18n: Employee
+  date:
+    detail: June 2021 till Now
+    i18n: company_b_date
+  job:
+    detail: Employee [ Engineer ]
+    i18n: Employee
+  logo: /static/assets/img/career_logos/INFINEON.png
+
+- name:
     detail: Cypress Semiconductors India
     i18n: Cypress
     link: https://cypress.com/
@@ -8,7 +23,7 @@
     detail: I did internship here and Learnt about embedded programming. Especially for Cypress microcontrollers. Now am into the software verification team of CoEx ( WLan and Bluetooth )
     i18n: Intern
   date:
-    detail: Jan 2019 till Now
+    detail: Jan 2019 till June 2021
     i18n: company_b_date
   job:
     detail: Intern & Employee [ System Validation Engineer ]
