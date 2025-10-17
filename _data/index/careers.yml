@@ -1,17 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Flipkart Internet Pvt Ltd
+    i18n: Flipkart
+    link: https://www.flipkart.com/
+  desc:
+    detail: Systems Engineer working on the IAAS team, mainly dealing with the internal cloud platform of Flipkart called FLIPKART CLOUD. Working on building new features and maintaining existing features of the platform.
+    i18n: Employee
+  date:
+    detail: Jan 2025 till Present
+    i18n: company_b_date
+  job:
+    detail: Employee [ Systems Engineer ]
+    i18n: Employee
+  logo: /static/assets/img/career_logos/FLIPKART.png
+
 - name:
     detail: InfineonTechnologies India
     i18n: Infineon
     link: https://www.infineon.com/
   desc:
-    detail: L2 apps Engineer( making technical documents and demo's, basicall making the customers understand how to use our WiFi Products)
+    detail: L2 apps Engineer( making technical documents and demo's, basicall making the customers understand how to use our WiFi Products). Also worked as Systems Engineer for a while, where I designed and developed automated testing software (Python and embedded C) for MCU kits, maximizing test coverage and efficiency, and collaborated with the hardware team to create firmware modules using Modus Toolbox, RTOS, and various communication protocols (SPI, I2C, CAN, UART, USB), requiring embedded programming skills, schematic reading, and use of debugging tools like logic analyzers and oscilloscopes.
     i18n: Employee
   date:
-    detail: June 2021 till Now
+    detail: June 2021 till Dec 2024
     i18n: company_b_date
   job:
-    detail: Employee [ Engineer ]
+    detail: Employee [ Engineer and Systems Engineer ]
     i18n: Employee
   logo: /static/assets/img/career_logos/INFINEON.png
 
